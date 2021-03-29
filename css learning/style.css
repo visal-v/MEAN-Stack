@@ -1,0 +1,26 @@
+body {
+  background-color: burlywood;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+  text-decoration: underline;
+}
+
+div {
+  color: black;
+  float: left;
+  width: 30%;
+  height: 400px;
+}
+
+.first {
+  color: black;
+}
+
+img {
+    width: 10%;
+    float: left;
+    
+}

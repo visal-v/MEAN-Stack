@@ -1,0 +1,29 @@
+h2 {
+    color: #1c1e21;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 32px;
+    line-height: 38px;
+    margin-bottom: 0
+}
+
+h3 {
+
+   color: #606770;
+    font-family: SFProDisplay-Bold, Helvetica, Arial, sans-serif;
+    font-size: 15px;
+    line-height: 24px;
+    margin-bottom: 12px;
+}
+
+.back-ground {
+
+    align-items: cente;
+    background-color: #fff;
+    border-radius: 8px 8px 0 0;
+    box-sizing: border-box;
+    padding: 10px 16px;
+    position: relative;
+    width: 432px;
+    z-index: 1;
+}
+

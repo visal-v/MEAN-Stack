@@ -1,0 +1,60 @@
+body{
+    margin: 0cm;
+    background-color: white;
+
+}
+
+
+h2{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.first,.second,.three,.four,.five{
+
+    width: 100px;
+    height: 300px;
+    margin-left: 23;
+   
+}
+.first{
+
+    background-color: brown;
+   
+    position: absolute;
+    left: 50px;
+
+}
+.second{
+    background-color:cadetblue;
+   
+    position: absolute;
+    left: 200px;
+
+}
+.three{
+    background-color: cornflowerblue;
+   
+    position: absolute;
+    left: 350px;
+
+}
+.four{
+    background-color: cyan;
+   
+    position: absolute;
+    left: 500px;
+
+}
+.five{
+    background-color: darkorange;
+   
+    position: absolute;
+    left: 650px;
+
+}
+
+
+

@@ -1,0 +1,14 @@
+.main {
+  background-color: blueviolet;
+}
+
+
+.nbutton {
+
+    width: 120px;
+}
+
+#mbt:hover {
+
+    background-color: red;
+}

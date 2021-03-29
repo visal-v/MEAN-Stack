@@ -1,0 +1,46 @@
+body {
+  margin: 0px;
+  color: white;
+  background-color: black;
+}
+
+h1 {
+  text-align: center;
+  margin: 0px;
+}
+
+.container {
+  position: relative;
+  left: 30%;
+  padding: 10% 0% 0% 0%;
+  text-align: center;
+  font-family: monospace;
+  font-size: 20px;
+}
+
+.part-one,
+.part-two,
+.part-three {
+  float: left;
+  height: 55vh;
+  width: 10%;
+  border: 1px solid blue;
+  background-color: rgb(75, 118, 238);
+}
+
+.part-one {
+  position: relative;
+  left: -20px;
+  background-color: red;
+}
+
+.part-two {
+  position: relative;
+  left: 5px;
+}
+
+.part-three {
+  position: relative;
+  left: 20px;
+  background-color: green;
+}
